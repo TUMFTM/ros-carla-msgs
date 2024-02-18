@@ -7,6 +7,7 @@
 
 string type
 string id
+string frame_id
 diagnostic_msgs/KeyValue[] attributes
 geometry_msgs/Pose transform
 uint32 attach_to
